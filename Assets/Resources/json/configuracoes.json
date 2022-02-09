@@ -1,0 +1,17 @@
+{
+  "cartas": [
+    {
+      "imagemCarta": "carta0.png"
+    },
+    {
+      "imagemCarta": "carta1.png"
+    },
+    {
+      "imagemCarta": "carta2.png"
+    },
+    {
+      "imagemCarta": "carta3.png"
+    }
+  ],
+  "tempoTotal": 60
+}
